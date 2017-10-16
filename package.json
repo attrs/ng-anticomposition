@@ -1,6 +1,6 @@
 {
   "name": "ng-anticomposition",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "force fire compositionend event when compositionupdate",
   "main": "ng-anticomposition.js",
   "repository": "attrs/ng-anticomposition",
