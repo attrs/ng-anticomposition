@@ -1,0 +1,25 @@
+{
+  "name": "ng-anticomposition",
+  "version": "0.0.0",
+  "description": "force fire compositionend event when compositionupdate",
+  "main": "ng-anticomposition.js",
+  "repository": "attrs/ng-anticomposition",
+  "author": "joje <joje.attrs@gmail.com>",
+  "homepage": "https://github.com/attrs/ng-anticomposition",
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "directive",
+    "compositionupdate",
+    "compositionend"
+  ],
+  "files": [
+    "*.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "peerDependencies": {
+    "angular": "1.x"
+  }
+}
